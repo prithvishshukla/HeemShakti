@@ -1,0 +1,43 @@
+name: polar_logistics_android
+description: "Integrated Polar Expedition Logistics and Asset Management System for SIH26062"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Backend REST API communication
+  http: ^1.2.2
+
+  cupertino_icons: ^1.0.8
+
+  # Existing expedition map functionality
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # Authentication and user management
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Session persistence
+  shared_preferences: ^2.3.2
+
+  # Password hashing
+  crypto: ^3.0.5
+
+  # Unique IDs for users
+  uuid: ^4.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
