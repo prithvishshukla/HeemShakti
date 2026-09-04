@@ -7,6 +7,10 @@
 [![SQLite](https://img.shields.io/badge/Database-SQLite3-003B57?logo=sqlite&logoColor=white)](https://sqlite.org)
 [![OpenStreetMap](https://img.shields.io/badge/Maps-OpenStreetMap-7EAC33?logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org)
 
+![HeemShakti project icon](polar_logistics_android/assets/icon/app_icon.png)
+
+This is the official HeemShakti project icon.
+
 An enterprise-grade cross-platform mobile application and backend API system developed for the **National Centre for Polar and Ocean Research (NCPOR)**, Ministry of Earth Sciences, India. 
 
 **Polar Logistics** (Project **HeemShakti** / SIH26062) provides real-time tracking, asset management, cargo inventory oversight, personnel deployment monitoring, interactive expedition mapping, and live operational analytics across remote Antarctic research stations (such as *Maitri* and *Bharati*).
